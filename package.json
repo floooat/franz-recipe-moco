@@ -1,0 +1,14 @@
+{
+  "id": "moco",
+  "name": "MOCO",
+  "version": "1.0.0",
+  "description": "moco",
+  "main": "index.js",
+  "author": "Florian Boehler <florian@boehlerbrothers.com>",
+  "license": "MIT",
+  "repository": "https://github.com/floooat/franz-recipe-moco",
+  "config": {
+    "serviceURL": "https://{teamId}.mocoapp.com",
+    "hasTeamId": true
+  }
+}
